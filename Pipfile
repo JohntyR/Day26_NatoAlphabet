@@ -6,8 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-black = "*"
 pylint = "*"
+autopep8 = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.9"
